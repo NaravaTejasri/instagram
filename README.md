@@ -12,7 +12,7 @@
 
 ### Project Overview
 
-This project is a simple social media timeline built with React. It allows users to view posts, search for posts by user name, and see a list of suggested content. The app has a responsive user interface with two main components: a navigation sidebar (Sidenav) and a timeline of posts (Timeline). The timeline also includes a search bar to filter posts by user name, enhancing user experience by providing search functionality.
+This project is a simple social media timeline built with React. It allows users to view posts, search for posts by user name, and see a list of suggested content. The timeline also includes a search bar to filter posts by user name, enhancing user experience by providing search functionality.
 
 Features
 Homepage with Sidenav: The main page consists of a sidebar for navigation (Sidenav) and a timeline (Timeline).
